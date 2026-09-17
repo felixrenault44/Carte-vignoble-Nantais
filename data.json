@@ -1,0 +1,13 @@
+{
+  "mapProfiles": [],
+  "currentMapId": "main",
+  "places": [],
+  "categories": [],
+  "labels": {
+    "commune": "📍 Commune",
+    "categorie": "📋 Catégorie",
+    "missions": "📝 Missions & Activités",
+    "adresse": "📧 Adresse",
+    "keywords": "🔑 Mots-clés"
+  }
+}
